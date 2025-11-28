@@ -20,7 +20,7 @@ class Program
                 case "4": BudgetTrackerService.SaveToFile(); break;
                 case "5": BudgetTrackerService.LoadToSystem(); break;
                 case "0": return;
-                default: Console.WriteLine("Meangingless choice, please choose again!"); break;
+                default: Console.WriteLine("Doesn't exist this choice, please choose again!"); break;
             }
         }
     }
