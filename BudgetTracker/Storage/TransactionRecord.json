@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "income",
+    "Amount": 3214,
+    "Message": "lalla",
+    "Timestamp": "2025-11-27T20:07:41.434665-08:00"
+  },
+  {
+    "Type": "expense",
+    "Amount": 444.5,
+    "Message": "no cost",
+    "Timestamp": "2025-11-27T20:07:55.554988-08:00"
+  },
+  {
+    "Type": "income",
+    "Amount": 33.5,
+    "Message": "no way get money",
+    "Timestamp": "2025-11-27T20:08:15.228074-08:00"
+  },
+  {
+    "Type": "expense",
+    "Amount": 1000,
+    "Message": "huolai",
+    "Timestamp": "2025-11-27T20:08:29.670827-08:00"
+  },
+  {
+    "Type": "expense",
+    "Amount": 2323,
+    "Message": "...",
+    "Timestamp": "2025-11-27T20:10:21.282783-08:00"
+  },
+  {
+    "Type": "income",
+    "Amount": 666,
+    "Message": "lulalulalei",
+    "Timestamp": "2025-11-27T20:10:32.2773-08:00"
+  }
+]
