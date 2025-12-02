@@ -5,7 +5,7 @@ using BudgetTracker.Exceptions;
 namespace BudgetTracker.Service;
 public static class BudgetTrackerService
 {
-    static List<Transaction> list=new List<Transaction>();
+    public static List<Transaction> list=new List<Transaction>();
     public static void ShowMenu()
     {
         var menu="""
