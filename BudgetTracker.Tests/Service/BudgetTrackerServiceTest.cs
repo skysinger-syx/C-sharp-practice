@@ -15,9 +15,8 @@ public class BudgetTrackerServiceTest
             new Transaction ("Food", 10, "Lunch", new DateTime(2024, 1, 1, 8, 0, 0) ),
             new Transaction ("Rent", 2000, "Monthly Rent", new DateTime(2025, 3, 24, 8, 0, 0) )
         };
-
-        var stringWriter = new StringWriter();
         var originalOut = Console.Out;
+        var stringWriter = new StringWriter();
         Console.SetOut(stringWriter);   
 
         // Act
